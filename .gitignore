@@ -1,3 +1,4 @@
 selenium_env
 .DS_Store
 .idea/
+client_secret.json
